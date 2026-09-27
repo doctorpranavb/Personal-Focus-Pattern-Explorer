@@ -13,7 +13,7 @@ I was already using RescueTime to measure activity and distraction-blocking tool
 **Which parts of my day consistently supported sustained, focused work, and which did not?**
 
 <p align="center">
-  <img src="media/screenshots/02_focus-pattern-explorer_main-view_portfolio.png" width="100%" alt="Personal Focus Pattern Explorer time-of-day pattern view">
+  <img src="media/02_focus-pattern-explorer_main-view_portfolio.png" width="100%" alt="Personal Focus Pattern Explorer time-of-day pattern view">
 </p>
 
 *Selected time-of-day view comparing recent behavior with longer-term personal patterns. The original interface used the internal working title “Focus Zones.”*
@@ -83,7 +83,7 @@ The scoring model, thresholds, historical weighting, confidence logic, and detai
 ## Used Inside the Real Study Environment
 
 <p align="center">
-  <img src="media/screenshots/01_focus-pattern-explorer_panel-in-context_portfolio.png" width="100%" alt="Focus pattern mini-view operating inside an active USMLE study workflow">
+  <img src="media/01_focus-pattern-explorer_panel-in-context_portfolio.png" width="100%" alt="Focus pattern mini-view operating inside an active USMLE study workflow">
 </p>
 
 *The compact pattern view running alongside my actual Q-bank study workflow. Proprietary educational content has been intentionally obscured.*
